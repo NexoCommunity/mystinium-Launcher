@@ -9,7 +9,7 @@
         "email": "mystinium@gmail.com",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://mysti.liveblog365.com",
+    "url": "https://launcher.unaux.com",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
